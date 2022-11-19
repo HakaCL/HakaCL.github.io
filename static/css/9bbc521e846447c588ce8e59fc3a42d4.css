@@ -1,0 +1,16 @@
+/* core	================================================	*/
+.seasonColor { color: #088eff; }
+
+.floatBg { background: url("../images/7e035dfdd18141e69579a9eb4d84b207.gif") repeat 0 0; }
+.modalBg { background: url("../images/7e035dfdd18141e69579a9eb4d84b207.gif") repeat 0 0; }
+
+.charaWrap { background: url("../images/39b5a46b193a43bab287a01c1033c763.gif") no-repeat 0 75px; }
+
+#wrapper #contWrap.onair table th { background: #088eff; }
+#wrapper #contWrap.onair table td.cell1 { background: #a6d8ff; }
+
+#wrapper #contWrap.dvd .bdWrap article h3 p.title { background: #088eff; }
+
+#wrapper #contWrap.dvd .bdWrap article .inner { background: url("../images/67bdc1b46c16434baa55816ea83378d7.gif") repeat-y 0 0; }
+
+#wrapper #contWrap.dvd .bdWrap article .inner .moreWrap .moreDetail .inner { background: #c9eeff; }
